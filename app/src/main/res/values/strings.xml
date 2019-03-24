@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">demo_ControlFont</string>
+
+    <string name="demo_text">这是演示文字</string>
+
+    <string name="radio_text_black">黑色</string>
+    <string name="radio_text_red">红色</string>
+    <string name="radio_text_blue">蓝色</string>
+    <string name="radio_text_green">绿色</string>
+
+    <string name="checkbox_text_bold">加粗</string>
+    <string name="checkbox_text_italic">斜体</string>
+    <string name="checkbox_text_under">反转</string>
+    <string name="checkbox_text_delete">垂直</string>
+
+    <string name="bar_text_min">10</string>
+    <string name="bar_text_max">40</string>
+
+    <string name="show_bar_text_default">当前：18</string>
+</resources>
